@@ -4,6 +4,9 @@
   <img src="data/traffic-simulation-L1.gif"/>
   This is project Stage1.
   Udacity CPP Nano degree concurrency project L1, which simulate traffic via concurrency.
+  
+  **project structure**
+  ![project structure](data/traffic-simulation-L1-structure.jpg)
 
 ## Dependencies for Buiding 
 
